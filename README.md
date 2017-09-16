@@ -69,7 +69,9 @@ Dragon VR code for Children's Museum of Jordan
 ## Dragon Assembly
 
 1. Chair Assembly
+![Chair Parts](screenshots/chair1.png "parts of the chair")
 ![Chair Wireframe](screenshots/chair-wireframe.jpg "assembling the chair of the dragon")
+![Chair](screenshots/chair2.png "description of parts")
 
 2. Dragon Sketch
 ![Dragon](screenshots/sketch.jpg "description of dragon parts")

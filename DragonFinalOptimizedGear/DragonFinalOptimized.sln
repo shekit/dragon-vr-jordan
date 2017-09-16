@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{80FCF80B-4B11-E9EF-DC26-C31E883F1A1E}") = "DragonFinalOptimized", "Assembly-CSharp-firstpass.csproj", "{88AFDBC9-5C04-0EF2-4328-A213570FA5F4}"
+EndProject
+Project("{80FCF80B-4B11-E9EF-DC26-C31E883F1A1E}") = "DragonFinalOptimized", "Assembly-CSharp.csproj", "{C67455EB-52FA-4CB3-65A5-8D000B30DDD1}"
+EndProject
+Project("{80FCF80B-4B11-E9EF-DC26-C31E883F1A1E}") = "DragonFinalOptimized", "Assembly-CSharp-Editor.csproj", "{B3D733BD-83CF-C02C-7556-EB3EA31CE61E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88AFDBC9-5C04-0EF2-4328-A213570FA5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88AFDBC9-5C04-0EF2-4328-A213570FA5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88AFDBC9-5C04-0EF2-4328-A213570FA5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88AFDBC9-5C04-0EF2-4328-A213570FA5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C67455EB-52FA-4CB3-65A5-8D000B30DDD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67455EB-52FA-4CB3-65A5-8D000B30DDD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67455EB-52FA-4CB3-65A5-8D000B30DDD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67455EB-52FA-4CB3-65A5-8D000B30DDD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D733BD-83CF-C02C-7556-EB3EA31CE61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D733BD-83CF-C02C-7556-EB3EA31CE61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D733BD-83CF-C02C-7556-EB3EA31CE61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D733BD-83CF-C02C-7556-EB3EA31CE61E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

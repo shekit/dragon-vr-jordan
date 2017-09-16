@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: cf9510c301bc94df19cf7962ae93c9c2
+timeCreated: 1449969473
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Landscape
+    100004: Landscape_2
+    100006: Null
+    100008: Torus
+    100010: Torus_1
+    100012: Torus_10
+    100014: Torus_11
+    100016: Torus_2
+    100018: Torus_2_2
+    100020: Torus_3
+    100022: Torus_3_2
+    100024: Torus_4
+    100026: Torus_5
+    100028: Torus_5_2
+    100030: Torus_6
+    100032: Torus_8
+    100034: Torus_8_2
+    100036: Torus_9
+    100038: Torus_9_2
+    400000: //RootNode
+    400002: Landscape
+    400004: Landscape_2
+    400006: Null
+    400008: Torus
+    400010: Torus_1
+    400012: Torus_10
+    400014: Torus_11
+    400016: Torus_2
+    400018: Torus_2_2
+    400020: Torus_3
+    400022: Torus_3_2
+    400024: Torus_4
+    400026: Torus_5
+    400028: Torus_5_2
+    400030: Torus_6
+    400032: Torus_8
+    400034: Torus_8_2
+    400036: Torus_9
+    400038: Torus_9_2
+    2300000: Landscape_2
+    2300002: Torus_1
+    2300004: Torus_10
+    2300006: Torus_11
+    2300008: Torus_2
+    2300010: Torus_2_2
+    2300012: Torus_3_2
+    2300014: Torus_4
+    2300016: Torus_5_2
+    2300018: Torus_6
+    2300020: Torus_8_2
+    2300022: Torus_9_2
+    3300000: Landscape_2
+    3300002: Torus_1
+    3300004: Torus_10
+    3300006: Torus_11
+    3300008: Torus_2
+    3300010: Torus_2_2
+    3300012: Torus_3_2
+    3300014: Torus_4
+    3300016: Torus_5_2
+    3300018: Torus_6
+    3300020: Torus_8_2
+    3300022: Torus_9_2
+    4300000: Landscape_2
+    4300002: Torus_2
+    4300004: Torus_1
+    4300006: Torus_2_2
+    4300008: Torus_3_2
+    4300010: Torus_4
+    4300012: Torus_5_2
+    4300014: Torus_6
+    4300016: Torus_8_2
+    4300018: Torus_9_2
+    4300020: Torus_10
+    4300022: Torus_11
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 312cd4d0c851f42a6a6fbcf95a4d4918
+timeCreated: 1449969567
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bark
+    100002: bark_2
+    100004: Boole
+    100006: Boole_1
+    100008: Cube
+    100010: Cylinder
+    100012: Landscape
+    100014: //RootNode
+    100016: Platonic
+    100018: Platonic_1
+    100020: Platonic_1_2
+    100022: Platonic_2
+    100024: Platonic_2_2
+    100026: Platonic_2_3
+    100028: Sphere
+    100030: Sphere_1
+    100032: Sphere_1_2
+    100034: Sphere_2
+    100036: Sphere_2_2
+    100038: Sphere_2_3
+    100040: Sphere_3
+    400000: bark
+    400002: bark_2
+    400004: Boole
+    400006: Boole_1
+    400008: Cube
+    400010: Cylinder
+    400012: Landscape
+    400014: //RootNode
+    400016: Platonic
+    400018: Platonic_1
+    400020: Platonic_1_2
+    400022: Platonic_2
+    400024: Platonic_2_2
+    400026: Platonic_2_3
+    400028: Sphere
+    400030: Sphere_1
+    400032: Sphere_1_2
+    400034: Sphere_2
+    400036: Sphere_2_2
+    400038: Sphere_2_3
+    400040: Sphere_3
+    2300000: bark_2
+    2300002: Cube
+    2300004: Landscape
+    2300006: Platonic_1_2
+    2300008: Platonic_2
+    2300010: Platonic_2_3
+    2300012: Sphere_1_2
+    2300014: Sphere_2
+    2300016: Sphere_2_3
+    2300018: Sphere_3
+    3300000: bark_2
+    3300002: Cube
+    3300004: Landscape
+    3300006: Platonic_1_2
+    3300008: Platonic_2
+    3300010: Platonic_2_3
+    3300012: Sphere_1_2
+    3300014: Sphere_2
+    3300016: Sphere_2_3
+    3300018: Sphere_3
+    4300000: Platonic_2
+    4300002: Platonic_2_3
+    4300004: Platonic_1_2
+    4300006: bark_2
+    4300008: Sphere_2
+    4300010: Landscape
+    4300012: Sphere_3
+    4300014: Cube
+    4300016: Sphere_1_2
+    4300018: Sphere_2_3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

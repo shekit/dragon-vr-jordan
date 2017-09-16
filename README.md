@@ -27,10 +27,11 @@ Dragon VR code for Children's Museum of Jordan
 3. Create a Oculus Signature File for your GearVR capable Android device [https://dashboard.oculus.com/tools/osig-generator/](https://dashboard.oculus.com/tools/osig-generator/)
 4. Copy this Oculus Signature file into the Unity Project `/Plugins/Android/assets/`
 5. Update IP address in the project:
-  1. Select 'SocketIO' gameobject from Heirarchy Panel in Unity Project
+  1. Select 'SocketIO' gameobject from Heirarchy Panel in Unity Project ![SocketIO](screenshots/socket1.png)
   2. In 'Url' field in the Inspector Panel update IP address
   3. Replace `10.0.32.2` with IP address of the laptop which is connected to your wifi router e.g 192.168.1.5
   4. Leave everything else in the 'Url' field exactly the way it is, only update those 4 numbers
+  5. ![Update URL](screenshots/socket1.png)
 
 ## Phone Setup:
 1. You will need a GearVR compatible Samsung phone
@@ -51,6 +52,7 @@ Dragon VR code for Children's Museum of Jordan
 5. Open dragon_controller.ino
   1. Replace IP address `10.0.32.2` with IP address of your laptop after it has connected to your router
   2. Only replace those 4 digits, nothing else
+  3. ![Arduino IP](screenshots/yun1.png)
 5. Upload sketch dragon-controller from this repo to the Yun
 6. The arduino requires 5 buttons plugged into it in digital pins 8,9,10,11,12
   * Pin 8 - turns dragon right
@@ -70,7 +72,7 @@ Dragon VR code for Children's Museum of Jordan
 
 1. Chair Assembly
 ![Chair Parts](screenshots/chair1.png "parts of the chair")
-![Chair Wireframe](screenshots/chair-wireframe.jpg "assembling the chair of the dragon")
+![Chair Wireframe](screenshots/chair3.png "assembling the chair of the dragon")
 ![Chair](screenshots/chair2.png "description of parts")
 
 2. Dragon Sketch

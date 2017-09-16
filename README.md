@@ -27,11 +27,12 @@ Dragon VR code for Children's Museum of Jordan
 3. Create a Oculus Signature File for your GearVR capable Android device [https://dashboard.oculus.com/tools/osig-generator/](https://dashboard.oculus.com/tools/osig-generator/)
 4. Copy this Oculus Signature file into the Unity Project `/Plugins/Android/assets/`
 5. Update IP address in the project:
-  1. Select 'SocketIO' gameobject from Heirarchy Panel in Unity Project ![SocketIO](screenshots/socket1.png)
-  2. In 'Url' field in the Inspector Panel update IP address
-  3. Replace `10.0.32.2` with IP address of the laptop which is connected to your wifi router e.g 192.168.1.5
-  4. Leave everything else in the 'Url' field exactly the way it is, only update those 4 numbers
-  5. ![Update URL](screenshots/socket1.png)
+  1. Select 'SocketIO' gameobject from Heirarchy Panel in Unity Project 
+  2. ![SocketIO](screenshots/socket1.png)
+  3. In 'Url' field in the Inspector Panel update IP address
+  4. Replace `10.0.32.2` with IP address of the laptop which is connected to your wifi router e.g 192.168.1.5
+  5. Leave everything else in the 'Url' field exactly the way it is, only update those 4 numbers
+  6. ![Update URL](screenshots/socket2.png)
 
 ## Phone Setup:
 1. You will need a GearVR compatible Samsung phone

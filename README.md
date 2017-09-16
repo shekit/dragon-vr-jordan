@@ -26,7 +26,6 @@ Dragon VR code for Children's Museum of Jordan
 2. Open the project from this repo titled DragonFinalOptimizedGear
 3. Create a Oculus Signature File for your GearVR capable Android device [https://dashboard.oculus.com/tools/osig-generator/](https://dashboard.oculus.com/tools/osig-generator/)
 4. Copy this Oculus Signature file into the Unity Project `/Plugins/Android/assets/`
-5. Update IP address in the project:
   1. Select 'SocketIO' gameobject from Heirarchy Panel in Unity Project 
   2. ![SocketIO](screenshots/socket1.png)
   3. In 'Url' field in the Inspector Panel update IP address

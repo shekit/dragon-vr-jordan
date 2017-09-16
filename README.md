@@ -66,6 +66,13 @@ Dragon VR code for Children's Museum of Jordan
 3. Make sure app is installed on your mobile device. Tap the app and slide it into your GearVR headset
 4. Make sure Arduino Yun is powered on.
 
+## Dragon Assembly
+
+1. Chair Assembly
+![Chair Wireframe](screenshots/chair-wireframe.jpg "assembling the chair of the dragon")
+
+2. Dragon Sketch
+![Dragon](screenshots/sketch.jpg "description of dragon parts")
 
   
 

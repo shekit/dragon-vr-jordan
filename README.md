@@ -64,7 +64,7 @@ Dragon VR code for Children's Museum of Jordan
 1. Ensure all devices are connected to the local network of your wifi router
 2. Make sure server is running on your laptop
 3. Make sure app is installed on your mobile device. Tap the app and slide it into your GearVR headset
-4. Make sure Arduino Yun is powered on.
+4. Make sure Arduino Yun is powered on, it can be plugged into a laptop or into a wall socket as long as you provide it 5V
 
 ## Dragon Assembly
 
